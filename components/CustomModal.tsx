@@ -54,7 +54,7 @@ export default function CustomModal({
                     className="flex flex-col items-center p-4 space-y-2 cursor-pointer justify-center"
                   >
                     <img
-                      className="object-cover object-center rounded-md aspect-square"
+                      className="object-cover object-center rounded-md aspect-square mb-1"
                       src={`/images/${member.img}`}
                       alt=""
                     />

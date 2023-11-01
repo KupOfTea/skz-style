@@ -64,7 +64,7 @@ export default function StyleCanvas() {
             // 텍스트 그리기
             context.fillStyle = "black";
             context.textAlign = "center";
-            context.font = "800 24px SUITE Variable"; // Adjust the font size here
+            context.font = "600 24px SUITE Variable"; // Adjust the font size here
             context.fillText(profile.username, x, y + 95); // Adjust the y position here
 
             // 우측에 문항 그리기
@@ -87,7 +87,7 @@ export default function StyleCanvas() {
               const textY = answerTextY;
 
               if (idx === 0) {
-                context.font = "900 36px SUITE Variable";
+                context.font = "700 36px SUITE Variable";
                 context.fillText(answerKey, textX, textY);
               }
 
@@ -114,7 +114,7 @@ export default function StyleCanvas() {
 
         context.fillStyle = "black";
         context.textAlign = "right";
-        context.font = "400 22px sans-serif";
+        context.font = "500 22px sans-serif";
         context.fillText(
           "@DevvTyga 개발자 타이가 - 스키즈 취향표",
           canvas.width - 10,
