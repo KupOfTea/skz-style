@@ -4,7 +4,7 @@
 
 ---
 
-**Next.js, TypeScript, Tailwind CSS를 이용하여** 더보이즈 버전(https://github.com/DevvTyga/tbz-style) 으로 만들었던 것을 코드를 깔끔하게 정리하여, 스트레이키즈 버전으로 만들었습니다.
+**Next.js, TypeScript, Tailwind CSS를 이용하여** [더보이즈 버전](https://github.com/DevvTyga/tbz-style) 으로 만들었던 것을 코드를 깔끔하게 정리하여, 스트레이키즈 버전으로 만들었습니다.
 
 | 메인 화면                                      | 8문항 버전                                     |
 | ---------------------------------------------- | ---------------------------------------------- |
